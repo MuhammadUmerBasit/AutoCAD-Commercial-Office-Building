@@ -117,7 +117,7 @@ The design integrates sustainable architecture principles to reduce operational 
 
 ## 📚 Coursework Laboratory Practicals (Labs 1 – 7)
 
-In addition to the capstone commercial office project, this repository preserves the laboratory drafting assignments completed by **Muhammad Umer Basit** (Student ID: `259084`, Section C):
+In addition to the capstone commercial office project, this repository preserves the laboratory drafting assignments completed by **Muhammad Umer Basit** (Civil Engineering Student):
 
 | Practical | Module Title | Deliverables | Formats |
 | :---: | :--- | :--- | :---: |
@@ -198,8 +198,8 @@ AutoCAD-Commercial-Office-Building/
 
 ## 👤 Author & Academic Attribution
 
-- **Lead Designer / Drafter:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
-  *Civil Engineering Student & BIM Specialist*
+- **Student / Drafter:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
+  *Civil Engineering Student*
 - **Project Collaborators:** Muhammad Abdullah, Muhammad Talha Nadeem  
 - **Course:** Computer Aided Design (CAD), Semester 5
 
