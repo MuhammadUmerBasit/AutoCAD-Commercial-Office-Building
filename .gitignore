@@ -1,0 +1,23 @@
+# Temporary & Backup CAD Files
+*.bak
+*.bk*
+*.tmp
+*.dwl
+*.dwl2
+*.ac$
+*.sv$
+*.~*
+~$*
+
+# OS & Compression Artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.zip
+*.rar
+*.7z
+
+# Editor / IDE Artifacts
+.vscode/
+.idea/
